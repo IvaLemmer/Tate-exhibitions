@@ -2,9 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <title>
-         Tate Liverpool
-    </title>
 	</head>
 	<body>
 	  <h1>OP ART IN FOCUS</h1>
