@@ -1,8 +1,6 @@
 # Tate-exhibitions
 <!DOCTYPE html>
 <html>
-<head>
-	</head>
 	<body>
 	  <h1>OP ART IN FOCUS</h1>
 	  <p>Until 12 July 2020</p>
