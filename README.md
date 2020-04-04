@@ -1,5 +1,4 @@
 # Tate-exhibitions
-<!DOCTYPE html>
 <html>
 	<body>
 	  <h1>OP ART IN FOCUS</h1>
